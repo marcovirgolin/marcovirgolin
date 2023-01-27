@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcovirgolin)](https://github.com/marcovirgolin/github-readme-stats)
+
 <!--
 **marcovirgolin/marcovirgolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
